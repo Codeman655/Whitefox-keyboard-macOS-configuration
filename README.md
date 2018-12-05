@@ -19,6 +19,12 @@ _Note_: The little hole in the bottom of the Whitefox keyboard activates firmwar
 
 ## Changes
 
+### Dec 5th 2018
+* Removed LED settings
+* Reset Capslock
+* Changed Fn-1 ESC to Sleep
+* Changed Fn-1 Star to Wakeup
+
 ### May 18th 2018
 
 * Changed the Fn-1 of Home to Vol Up.
@@ -52,6 +58,6 @@ Added a 6/N-KRO switcher on the escape key (when fn is pressed). This resolves a
 
 ## Whitefox Keyboard?
 
-![Whitefox keyboard, full](https://raw.githubusercontent.com/boyvanamstel/Whitefox-keyboard-macOS-configuration/master/assets/whitefox1.jpg)
-![Whitefox keyboard, keys](https://raw.githubusercontent.com/boyvanamstel/Whitefox-keyboard-macOS-configuration/master/assets/whitefox2.jpg)
-![Whitefox keyboard, PCB](https://raw.githubusercontent.com/boyvanamstel/Whitefox-keyboard-macOS-configuration/master/assets/whitefox3.jpg)
+![Whitefox keyboard, full](https://raw.githubusercontent.com/codeman655/Whitefox-keyboard-macOS-configuration/master/assets/whitefox1.jpg)
+![Whitefox keyboard, keys](https://raw.githubusercontent.com/codeman655/Whitefox-keyboard-macOS-configuration/master/assets/whitefox2.jpg)
+![Whitefox keyboard, PCB](https://raw.githubusercontent.com/codeman655/Whitefox-keyboard-macOS-configuration/master/assets/whitefox3.jpg)
